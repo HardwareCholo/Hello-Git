@@ -1,0 +1,35 @@
+[33mcommit d5b83c2a4a448ade66ae371033fc6ba1b24ac001[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Author: MMejia <jmejiap1600@alumno.ipn.mx>
+Date:   Mon Jul 3 10:04:36 2023 -0600
+
+    Se agrega la función de login en la rama login
+
+[33mcommit 2508d8eca9e4b45acc1828ee3905d5512f78479f[m[33m ([m[1;32mmain[m[33m)[m
+Author: MMejia <jmejiap1600@alumno.ipn.mx>
+Date:   Mon Jul 3 09:51:22 2023 -0600
+
+    Este es mi quinto commit
+
+[33mcommit 2285948563e3400867b0dcdb7e54cb30c4baeb5e[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: MMejia <jmejiap1600@alumno.ipn.mx>
+Date:   Sun Jul 2 22:46:09 2023 -0600
+
+    Se añade el fichero para ignorar ficheros
+
+[33mcommit e73aab7874cb74d538d442119950793f6124c237[m
+Author: MMejia <jmejiap1600@alumno.ipn.mx>
+Date:   Sun Jul 2 22:37:15 2023 -0600
+
+    Se actualiza el texto del print
+
+[33mcommit 435b28db54bd18ce0434a803e380b24d851b036e[m
+Author: MMejia <jmejiap1600@alumno.ipn.mx>
+Date:   Sun Jul 2 22:31:47 2023 -0600
+
+    Este es mi segundo commit
+
+[33mcommit e0b529ecda08f0b54cbe7050085db4cab7ce4edd[m
+Author: MMejia <jmejiap1600@alumno.ipn.mx>
+Date:   Sun Jul 2 22:27:58 2023 -0600
+
+    Este es mi primer commit
